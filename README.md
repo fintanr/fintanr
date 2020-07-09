@@ -20,7 +20,7 @@ I am also the primary or co-author of in depth assesmesments of AWS, Google and 
 
 ## RedMonk Posts
 
-You can find my old RedMonk work (here)[https://redmonk.com/fryan/]. There are a few posts I call out:
+You can find my old RedMonk work [here](https://redmonk.com/fryan/). There are a few posts I call out:
 
 * [Strategic Technology: Outsourcing, Re-Shoring, Changing Cultures and Digital Literacy](https://redmonk.com/fryan/2016/03/17/strategic-technology-outsourcing-re-shoring-changing-cultures-and-digital-literacy/) (2016)
 * [On the Myth of the 10X Engineer and the Reality of the Distinguished Engineer](https://redmonk.com/fryan/2016/12/12/on-the-myth-of-the-10x-engineer-and-the-reality-of-the-distinguished-engineer/) (2016)
