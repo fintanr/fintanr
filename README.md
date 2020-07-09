@@ -1,16 +1,36 @@
-### Hi there 👋
+### Hi, I'm Fintan Ryan
 
-<!--
-**fintanr/fintanr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Industry Analyst at [Gartner](https://gartner.com) ([formal bio](https://www.gartner.com/analyst/82961)) covering all things Cloud Native. 
 
-Here are some ideas to get you started:
+My focus is on modern application architectures (Kubernetes, Serverless, PaaS, Machine Learning in Production Applications, Low Code, application modernization), how to get to them, what are the organizational and process aspects, implementation patterns and so forth. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Previously an analyst at [RedMonk](https://redmonk.com), and a whole host of roles over the years (Engineering Director, Strategy, Program Management, Consultant)  at [Sun Microsystems](https://sun.com), [Oracle](https://oracle.com) and various startups. 
+
+## Recent Gartner Publications
+
+My recent [Gartner](https://gartner.com) publications. All of these are behind a paywall, but you can see a TOC. If your a Gartner client please feel free to book an inquiry if you want to discuss anything here. 
+
+* [Assessing WebAssembly for Use in Modern Application Design](https://www.gartner.com/en/documents/3982818/assessing-webassembly-for-use-in-modern-application-desi)
+* [Assessing Service Mesh for Use in Microservices Architectures](https://www.gartner.com/en/documents/3907117/assessing-service-mesh-for-use-in-microservices-architec)
+* [Guidance Framework for Modernizing .NET Applications](https://www.gartner.com/en/documents/3979332)
+* [How to Build Machine Learning and Artificial Intelligence Into Production Applications](https://www.gartner.com/en/documents/3969923/how-to-build-machine-learning-and-artificial-intelligenc)
+* [How to Build Cloud-Native Applications Using Serverless](https://www.gartner.com/en/documents/3892464/how-to-build-cloud-native-applications-using-serverless-)
+
+I am also the primary or co-author of in depth assesmesments of AWS, Google and Azure for application development (think Kubernetes, Serverless, PaaS etc). 
+
+## RedMonk Posts
+
+You can find my old RedMonk work (here)[https://redmonk.com/fryan/]. There are a few posts I call out:
+
+* [Strategic Technology: Outsourcing, Re-Shoring, Changing Cultures and Digital Literacy](https://redmonk.com/fryan/2016/03/17/strategic-technology-outsourcing-re-shoring-changing-cultures-and-digital-literacy/) (2016)
+* [On the Myth of the 10X Engineer and the Reality of the Distinguished Engineer](https://redmonk.com/fryan/2016/12/12/on-the-myth-of-the-10x-engineer-and-the-reality-of-the-distinguished-engineer/) (2016)
+* [The Commodity Container Story](https://redmonk.com/fryan/2017/12/19/the-commodity-container-story/) (2017)
+* [Strategic Technology: Cloud Native Data Science](https://redmonk.com/fryan/2017/06/05/strategic-technology-cloud-native-data-science/) (2017)
+* [The Welcome Return of Research Papers to Software Craft](https://redmonk.com/fryan/2016/03/10/the-welcome-return-of-research-papers-to-software-craft/) (2016)
+* [Security, Accountability and Compliance as Code](https://redmonk.com/fryan/2015/10/27/security-accountability-and-compliance-as-code/) (2015)
+
+## Other Bits
+
+You can find me on [twitter](https://twitter.com/fintanr). 
+
+
