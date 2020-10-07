@@ -10,6 +10,8 @@ My focus is on modern application architectures (Kubernetes, Serverless, PaaS, M
 
 My recent [Gartner](https://gartner.com) publications. All of these are behind a paywall, but you can see a TOC for most documents. If you are a Gartner client please feel free to book an inquiry if you want to discuss anything here. 
 
+* [How to Design Your Web Browser Strategy](https://www.gartner.com/document/3991383) (no TOC available)
+* [Architecting Short-Term Tactical Business Applications](https://www.gartner.com/document/3991127) (no TOC available)
 * [Solution Comparison for Low-Code Application Platforms](https://www.gartner.com/document/3987426) (no TOC available)
 * [Assessing WebAssembly for Use in Modern Application Design](https://www.gartner.com/en/documents/3982818/assessing-webassembly-for-use-in-modern-application-desi)
 * [Assessing Service Mesh for Use in Microservices Architectures](https://www.gartner.com/en/documents/3907117/assessing-service-mesh-for-use-in-microservices-architec)
