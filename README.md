@@ -10,8 +10,7 @@ My focus is on modern application architectures (Kubernetes, Serverless, PaaS, M
 
 My recent [Gartner](https://gartner.com) publications. All of these are behind a paywall, but you can see a TOC for most documents. If you are a Gartner client please feel free to book an inquiry if you want to discuss anything here. 
 
-* [Solution Criteria For Cloud Application Platforms](https://www.gartner.com/en/documents/3993876/solution-criteria-for-cloud-application-platform-service)
-** This document is a set of 114 detailed criteria for evaluating cloud providers support for developing applications. 
+* [Solution Criteria For Cloud Application Platforms](https://www.gartner.com/en/documents/3993876/solution-criteria-for-cloud-application-platform-service) - This document is a set of 114 detailed criteria for evaluating cloud providers support for developing applications. 
 * [How to Design Your Web Browser Strategy](https://www.gartner.com/document/3991383) (no TOC available)
 * [Architecting Short-Term Tactical Business Applications](https://www.gartner.com/document/3991127) (no TOC available)
 * [Solution Comparison for Low-Code Application Platforms](https://www.gartner.com/document/3987426) (no TOC available)
