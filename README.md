@@ -10,6 +10,10 @@ My focus is on modern application architectures (Kubernetes, Serverless, PaaS, M
 
 My recent [Gartner](https://gartner.com) publications. All of these are behind a paywall, but you can see a TOC for most documents. If you are a Gartner client please feel free to book an inquiry if you want to discuss anything here. 
 
+* [Solution Scorecard for Amazon Web Services Cloud Application Platform Services](https://www.gartner.com/document/3999554) (no TOC, AWS scores 91%)
+* [Solution Scorecard for Microsoft Azure Cloud Application Platform Services](https://www.gartner.com/document/3999557) (no TOC, Azure scores 74%)
+* [Solution Scorecard for Google Cloud Platform Cloud Application Platform Services](https://www.gartner.com/document/3999559) (no TOC, GCP scores 59%)
+* There is a brief explanation of these reports on [linkedin](https://www.linkedin.com/pulse/cloud-application-platform-services-aws-azure-google-fintan-ryan/)
 * [Solution Criteria For Cloud Application Platforms](https://www.gartner.com/en/documents/3993876/solution-criteria-for-cloud-application-platform-service) - This document is a set of 114 detailed criteria for evaluating cloud providers support for developing applications. 
 * [How to Design Your Web Browser Strategy](https://www.gartner.com/document/3991383) (no TOC available)
 * [Architecting Short-Term Tactical Business Applications](https://www.gartner.com/document/3991127) (no TOC available)
