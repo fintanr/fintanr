@@ -10,6 +10,7 @@ My focus is on modern application architectures (Kubernetes, Serverless, PaaS, M
 
 My recent [Gartner](https://gartner.com) publications. All of these are behind a paywall, but you can see a TOC for most documents. If you are a Gartner client please feel free to book an inquiry if you want to discuss anything here. 
 
+* [How Do I Manage Migration From Internet Explorer 11?](https://www.gartner.com/document/4002261?) (no TOC available)
 * [Solution Scorecard for Amazon Web Services Cloud Application Platform Services](https://www.gartner.com/document/3999554) (no TOC, AWS scores 91%)
 * [Solution Scorecard for Microsoft Azure Cloud Application Platform Services](https://www.gartner.com/document/3999557) (no TOC, Azure scores 74%)
 * [Solution Scorecard for Google Cloud Platform Cloud Application Platform Services](https://www.gartner.com/document/3999559) (no TOC, GCP scores 59%)
