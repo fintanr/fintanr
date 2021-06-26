@@ -8,8 +8,12 @@ My focus is on modern application architectures (Kubernetes, Serverless, PaaS, M
 
 ## Recent Gartner Publications
 
-My recent [Gartner](https://gartner.com) publications. All of these are behind a paywall, but you can see a TOC for most documents. If you are a Gartner client please feel free to book an inquiry if you want to discuss anything here. 
+My recent [Gartner](https://gartner.com) publications as. All of these are behind a paywall, but you can see a TOC for most documents. If you are a Gartner client please feel free to book an inquiry if you want to discuss anything here. 
 
+* [What Essential Patterns Should Microservices Follow for Successful Use in Production?](https://www.gartner.com/document/4002849) (no TOC available)
+* [Vendor Rating: VMware](https://www.gartner.com/document/4002792) (one of a cast of many)
+* [Leading Teams to Success With Microservices Architecture](https://www.gartner.com/document/4000740) (co-author)
+* [Open-Source Software Governance Policy Template](https://www.gartner.com/document/3999408) (co-author)
 * [How Do I Manage Migration From Internet Explorer 11?](https://www.gartner.com/document/4002261?) (no TOC available)
 * [Solution Scorecard for Amazon Web Services Cloud Application Platform Services](https://www.gartner.com/document/3999554) (no TOC, AWS scores 91%)
 * [Solution Scorecard for Microsoft Azure Cloud Application Platform Services](https://www.gartner.com/document/3999557) (no TOC, Azure scores 74%)
