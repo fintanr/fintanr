@@ -8,7 +8,7 @@ My focus is on modern application architectures (Kubernetes, Serverless, PaaS, M
 
 ## Recent Gartner Publications
 
-My recent [Gartner](https://gartner.com) publications as. All of these are behind a paywall, but you can see a TOC for most documents. If you are a Gartner client please feel free to book an inquiry if you want to discuss anything here. 
+My recent [Gartner](https://gartner.com) publications are below. All of these are behind a paywall, but you can see a TOC for most documents. If you are a Gartner client please feel free to book an inquiry if you want to discuss anything here. 
 
 * [How to Select the Right Programming Languages With Your Software Engineering Teams](https://www.gartner.com/document/4008987)
 * [Critical Capabilities for Full Life Cycle API Management](https://www.gartner.com/document/4006463) (primary author, one of a cast of many) 
