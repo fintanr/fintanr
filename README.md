@@ -1,10 +1,10 @@
 ### Hi, I'm Fintan Ryan
 
-* Industry Analyst at [Gartner](https://gartner.com) ([formal bio](https://www.gartner.com/analyst/82961)) covering all things Cloud Native. 
+* Brief Sabatical 
 
-My focus is on modern application architectures (Kubernetes, Serverless, PaaS, Machine Learning in Production Applications, Low Code, application modernization), how to get to them, what are the organizational and process aspects, implementation patterns and so forth. 
+My historic research focus has been on modern application architectures (Kubernetes, Serverless, PaaS, Machine Learning in Production Applications, Low Code, application modernization), how to get to them, what are the organizational and process aspects, implementation patterns and so forth. 
 
-* Previously an analyst at [RedMonk](https://redmonk.com), and a whole host of roles over the years (Engineering Director, Strategy, Program Management, Consultant)  at [Sun Microsystems](https://sun.com), [Oracle](https://oracle.com) and various startups. 
+* Previously an analyst at [Gartner](https://gartner.com) ([formal bio](https://www.gartner.com/analyst/82961)) covering all things Cloud Native, [RedMonk](https://redmonk.com), and a whole host of roles over the years (Engineering Director, Strategy, Program Management, Consultant)  at [Sun Microsystems](https://sun.com), [Oracle](https://oracle.com) and various startups. 
 
 ## Recent Gartner Publications
 
