@@ -1,14 +1,18 @@
 ### Hi, I'm Fintan Ryan
 
-* Brief Sabatical 
+* Director of Market Intelligence, GitHub
+
+Just starting into my new role in Market Intelligence at GitHub. Working to make developer's life better. 
+
+## Past Life
 
 My historic research focus has been on modern application architectures (Kubernetes, Serverless, PaaS, Machine Learning in Production Applications, Low Code, application modernization), how to get to them, what are the organizational and process aspects, implementation patterns and so forth. 
 
 * Previously an analyst at [Gartner](https://gartner.com) ([formal bio](https://www.gartner.com/analyst/82961)) covering all things Cloud Native, [RedMonk](https://redmonk.com), and a whole host of roles over the years (Engineering Director, Strategy, Program Management, Consultant)  at [Sun Microsystems](https://sun.com), [Oracle](https://oracle.com) and various startups. 
 
-## Recent Gartner Publications
+## Historic Gartner Publications
 
-My recent [Gartner](https://gartner.com) publications are below. All of these are behind a paywall, but you can see a TOC for most documents. If you are a Gartner client please feel free to book an inquiry if you want to discuss anything here. 
+My historic [Gartner](https://gartner.com) publications are below. All of these are behind a paywall, but you can see a TOC for most documents. 
 
 * [How to Select the Right Programming Languages With Your Software Engineering Teams](https://www.gartner.com/document/4008987)
 * [Critical Capabilities for Full Life Cycle API Management](https://www.gartner.com/document/4006463) (primary author, one of a cast of many) 
