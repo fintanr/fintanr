@@ -1,8 +1,8 @@
 ### Hi, I'm Fintan Ryan
 
-* Director of Market Intelligence, GitHub
+* Director of Market Insights, GitHub
 
-Just starting into my new role in Market Intelligence at GitHub. Working to make developer's life better. 
+Just starting into my new role in Market Insights at GitHub. Working to make developer's life better. 
 
 ## Past Life
 
