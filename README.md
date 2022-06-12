@@ -4,6 +4,12 @@
 
 Just starting into my new role in Market Insights at GitHub. Working to make developer's life better. 
 
+## Recent Writing
+
+These posts are in all in a personal capacity.
+
+* [On Logos, References, Companies and Analysts](https://medium.com/@fintanr/on-logos-references-companies-and-analysts-972d7c0a4921)
+
 ## Past Life
 
 My historic research focus has been on modern application architectures (Kubernetes, Serverless, PaaS, Machine Learning in Production Applications, Low Code, application modernization), how to get to them, what are the organizational and process aspects, implementation patterns and so forth. 
