@@ -2,8 +2,6 @@
 
 * Director of Market Insights, GitHub
 
-Just starting into my new role in Market Insights at GitHub. Working to make developer's life better. 
-
 ## Recent Writing
 
 These posts are in all in a personal capacity.
