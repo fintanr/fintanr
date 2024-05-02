@@ -6,6 +6,7 @@
 
 These posts are in all in a personal capacity.
 
+* [On IBM acquiring HashiCorp](https://medium.com/@fintanr/on-ibm-acquiring-hashicorp-c9c73a40d20c)
 * [The HashiCorp BSL Move](https://medium.com/@fintanr/the-hashicorp-bsl-move-ee79659a0b54)
 * [On Logos, References, Companies and Analysts](https://medium.com/@fintanr/on-logos-references-companies-and-analysts-972d7c0a4921)
 
