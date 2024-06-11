@@ -1,6 +1,18 @@
 ### Hi, I'm Fintan Ryan
 
-* Director of Market Insights, GitHub
+**Director of Market Insights, GitHub**
+
+Within my current role I research the broader technology landscape, with a focus on immediate competitors combined with macro trends. My current research interests are primiarly on the strategy and direction of the technology industry, and include: 
+
+* AI Coding Assistants (eg GitHub Copilot)
+* Risk and Technology (eg macro trends around GenAI, board and CIO/CISO/CTO concerns, policy and legislation)
+* DevOps platforms and associated areas (eg cloud native, platform engineering, ci/cd)
+* Developer focused security tooling and trends (eg SCA, SAST, DAST, CNNAP, ASPM)
+* Macro cloud trends (eg cloud native, cloud providers, surrounding ecosystem)
+
+This work is used to inform stakeholders across GitHub. 
+
+My background is as an industry analyst (Gartner, RedMonk), and various roles across management, strategy and engineering before I became an analyst. 
 
 ## Recent Writing
 
