@@ -12,7 +12,7 @@ Within my current role I research the broader technology landscape, with a focus
 
 This work is used to inform stakeholders across GitHub. 
 
-My background is as an industry analyst (Gartner, RedMonk), and various roles across management, strategy and engineering before I became an analyst. 
+My background is as an industry analyst (Gartner, RedMonk), and various roles across management, strategy and engineering before becoming an analyst. 
 
 ## Recent Writing
 
