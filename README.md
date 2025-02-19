@@ -16,6 +16,8 @@ My background is as an industry analyst (Gartner, RedMonk), and various roles ac
 
 ## Recent Writing
 
+I publish links to content I find interesting on a semi regular basis to [fintanr.com](https://fintanr.com) ([RSS feed](https://fintanr.com/feed.xml)).
+
 These posts are in all in a personal capacity.
 
 * [How Do Software Vendors Communicate Big Releases?](https://medium.com/@fintanr/how-do-software-vendors-communicate-big-releases-b8540f2929cf)
