@@ -4,7 +4,8 @@
 
 Within my current role I research the broader technology landscape, with a focus on immediate competitors combined with macro trends. My current research interests are primarily on the strategy and direction of the technology industry, and include: 
 
-* AI Coding Assistants (eg GitHub Copilot)
+* Agentic AI and supporting platform trends
+* AI Coding Assistants (including agentic capabilties, eg GitHub Copilot)
 * Risk and Technology (eg macro trends around GenAI, board and CIO/CISO/CTO concerns, policy and legislation)
 * DevOps platforms and associated areas (eg cloud native, platform engineering, ci/cd)
 * Developer focused security tooling and trends (eg SCA, SAST, DAST, CNNAP, ASPM)
