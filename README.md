@@ -21,6 +21,8 @@ I publish links to content I find interesting on a semi regular basis to [fintan
 
 These posts are in all in a personal capacity.
 
+* [On Cobol, Mainframes, IBM and Blog Posts](https://fintanr.com/thoughts/2026/02/24/ibm-anthropic.html)
+* [The Strategy Behind MCP](https://fintanr.com/links/2025/03/31/mcp-strategy.html)
 * [How Do Software Vendors Communicate Big Releases?](https://medium.com/@fintanr/how-do-software-vendors-communicate-big-releases-b8540f2929cf)
 * [On IBM acquiring HashiCorp](https://medium.com/@fintanr/on-ibm-acquiring-hashicorp-c9c73a40d20c)
 * [The HashiCorp BSL Move](https://medium.com/@fintanr/the-hashicorp-bsl-move-ee79659a0b54)
